@@ -1,20 +1,59 @@
-# Hi there 👋
+🧾 
+<h1 align="center">Hi 👋, I'm Ritika Shukla</h1>
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Python</h3>
 
-I'm Ritika Shukla — welcome to my special profile repository!
+---
 
-About me
-- 🔭 I’m currently working on building helpful projects and learning new technologies.
-- 🌱 I’m learning more about open source contributions and web development.
-- 👯 I’m looking to collaborate on interesting frontend and full-stack projects.
-- 💬 Ask me about JavaScript, TypeScript, React, and building developer tools.
-- 📫 How to reach me: find me on GitHub (https://github.com/Ritika-shuklaa) or open an issue in this repo.
+### 🌟 About Me
+- 🎓 Post-Graduation (M.A) from **Allahabad State University**
+- 💼 Currently exploring data analytics tools and techniques
+- 📊 Passionate about transforming data into meaningful insights
+- 🚀 Actively seeking opportunities in **Data Analytics / Business Intelligence**
+- 📫 Reach me at: **[shuklaritika522@gmail.com]**
+- 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritika-shukla-dataanalyst/)
 
-What you'll find here
-- A personalized README that doubles as my GitHub profile intro.
-- Links to projects, contact info, and a list of technologies I use.
+---
 
-Contributing
-If you'd like to contribute or suggest changes, please open an issue or submit a pull request.
+### 🧠 Skills & Tools
+| Category | Tools |
+|-----------|--------|
+| **Data Analysis** | Excel, SQL, Power BI, Python |
+| **Visualization** | Power BI, Excel Charts, Matplotlib |
+| **Database** | MySQL |
+| **Other Skills** | Data Cleaning, Reporting, Dashboard Design |
 
-License
-This repository is licensed under the MIT License.
+---
+
+### 📈 My Projects
+#### 💼 [Sales Data Analysis Dashboard (Power BI + Excel)](https://github.com/ritikashukla/sales-dashboard)
+- Visualized sales trends, top-performing regions, and product insights.
+
+#### 🎓 [Student Performance Dashboard (Excel / Power BI)](https://github.com/ritikashukla/student-performance-dashboard)
+- Analyzed academic data to track performance and attendance trends.
+
+#### 💹 [Stock Market Analysis Dashboard (Python + Excel)](https://github.com/ritikashukla/stock-market-analysis)
+- Used Python to analyze and visualize stock data trends and volume.
+
+---
+
+### 💡 Learning Journey
+📘 Currently improving:
+- Power BI advanced visuals  
+- SQL data querying  
+- Python for analytics  
+
+📚 Exploring how to use data to drive smarter business decisions.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikashukla&show_icons=true&theme=blueberry" alt="ritikashukla stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikashukla&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+💬 Ask me about **Data Analytics**, **Excel**, or **Power BI**  
+📧 Email: [shuklaritika522@gmail.com]  
